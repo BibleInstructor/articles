@@ -36,8 +36,8 @@ website:
     contents:
       - href: index.qmd
         text: Home
-      - href: contents/throne-of-his-father-david.qmd
-        text: Home
+      - href: articles/throne-of-his-father-david.qmd
+        text: Throne of David
 format:
   html:
     theme:

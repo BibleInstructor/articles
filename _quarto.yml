@@ -42,6 +42,8 @@ website:
         text: Commentary on Judges
       - href: articles/exposition-of-matthew-24.qmd
         text: Exposition of Matthew 24
+      - href: articles/the-judgment.qmd
+        text: The Judgment
       
 format:
   html:

@@ -38,6 +38,11 @@ website:
         text: Home
       - href: articles/throne-of-his-father-david.qmd
         text: Throne of David
+      - href: articles/commentary-on-the-book-of-judges.qmd
+        text: Commentary on Judges
+      - href: articles/exposition-of-matthew-24.qmd
+        text: Exposition of Matthew 24
+      
 format:
   html:
     theme:
